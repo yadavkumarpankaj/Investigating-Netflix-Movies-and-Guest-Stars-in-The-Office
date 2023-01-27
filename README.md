@@ -1,3 +1,7 @@
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yadavkumarpankaj?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yadavkumarpankaj)
+
 # Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd7l1Rd9lSwB6R58Hm9-sKK75ZG08ceD_5w&usqp=CAU" width="600" height="200">
 
